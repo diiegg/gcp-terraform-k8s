@@ -1,5 +1,5 @@
 // NOTE: If you change the project id here, reflect it in backend.tf too.
-credentials           = "terraform-gke-keyfile.json"
+credentials           = "your json file here"
 project_id            = "impactful-hawk-295320"
 env                   = "dev"
 region                = "europe-west4"
