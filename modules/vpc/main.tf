@@ -6,7 +6,7 @@ provider "google" {
   version = "~> 2.18.0"
   project = var.project_id
   region  = var.region
-  credentials  = "terraform-gke-keyfile.json"
+  credentials  = "your json file here"
 }
 
 locals {
